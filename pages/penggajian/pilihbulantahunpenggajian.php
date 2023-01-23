@@ -48,6 +48,9 @@
                             Ketika Memilih Bulan Maka Harus memilih Tahun
                         </div>
                     <?php
+                }else {
+                     echo "<meta http-equiv='refresh' content='0;url=?page=penggajian&bulan=$bulan_select&tahun=$tahun_select' >";
+
                 }
             }
         ?>

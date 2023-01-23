@@ -70,11 +70,11 @@
             <form action="" method="post">
             <div class="mb-3">
                 <label for="nik" class="form-label">NIK</label>
-                <input type="text" class="form-control" id="nik" name="nik" placeholder="Masukkan Nama NIK" required>
+                <input type="text" class="form-control" id="nik" name="nik" placeholder="Masukkan NIK" required>
             </div>
             <div class="mb-3">
                 <label for="nama" class="form-label">Nama</label>
-                <input type="text" class="form-control" id="nama" name="nama" placeholder="Masukkan Nama Bagian" required>
+                <input type="text" class="form-control" id="nama" name="nama" placeholder="Masukkan Nama" required>
             </div>
             <div class="mb-3">
                 <label for="tanggal_mulai" class="form-label">Tanggal Mulai</label>
